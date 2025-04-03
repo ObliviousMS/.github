@@ -14,6 +14,6 @@ An expansive, story-rich Minecraft modpack and server infrastructure built for l
 
 ---
 
-🌍 [Join the GitHub Project Board](https://github.com/users/fringemonkey/projects/2)
+🌍 [Join the GitHub Project Board](https://github.com/orgs/ObliviousMS/projects/5)
 
 🎮 [Follow our development updates on Discord](#)
